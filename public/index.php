@@ -1,6 +1,6 @@
 <?php
 $page_title = 'Home Page';
-include('../include/header.php');
+include('../include/public_header.php');
 ?>
 
 <div id="content">
@@ -11,5 +11,5 @@ include('../include/header.php');
 </div>
 
 <?php
-include('../include/footer.php');
+include('../include/public_footer.php');
 ?>

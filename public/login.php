@@ -1,6 +1,6 @@
 <?php
 $page_title = 'About Page';
-include('../include/header.php');
+include('../include/public_header.php');
 ?>
 
 <div id="content">
@@ -16,5 +16,5 @@ include('../include/header.php');
 
 
 <?php
-include('../include/footer.php');
+include('../include/public_footer.php');
 ?>
